@@ -1,7 +1,7 @@
 <div align="center" >
   <img src="./packages/app/public/static/logo.png" width="60" alt="code-racer-logo">
   <br/>
-  <h1>Code Racer</h1>
+  <h1>Code Racer JK</h1>
 </div>
 
 <div align="center">
